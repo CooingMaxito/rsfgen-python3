@@ -24,7 +24,7 @@ This tool helps extract metadata from a 3DS ROM and a decrypted `exheader.bin`, 
 | -r | --rom | Path to a .3ds or .cci rom |
 | -e | --exheader | Path to a decrypted `exheader.bin` file |
 | -o | --rsf | Path to the RSF template to be used |
-| -f | --regionfree | *(Optional)* Path to an `ìcon.bin` to apply region-free patch |
+| -f | --regionfree | *(Optional)* Path to an `icon.bin` to apply region-free patch |
 | -s | --spoof | *(Optional)* Apply firmware spoofing |
 
 ---
