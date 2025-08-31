@@ -53,6 +53,11 @@ It is recommended to make a copy of the provided dummy.rsf file and use that cop
 
 <br>
 
+# TODO
+- Add thorough exception handling
+- more stuff? idk i'll think of something
+<br>
+
 # Credits
-- [ihaveamac](https://github.com/ihaveamac)
+- [ihaveamac](https://github.com/ihaveamac) for the original rsfgen tool
 - Special thanks to my friend [xToxicLynx](https://github.com/xToxicLynx) for the initial conversion and guidance
